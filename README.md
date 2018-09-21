@@ -7,4 +7,3 @@ André Gadelha.
   Ele deverá ser controlado por um microcontrolador que receberá a sequência de notas musicais e reproduzirá seus movimentos e sons através de uma estrutura mecânica baseada em um sistema de selação das respectivas teclas a serem pressionadas.
   A princípio o projeto visa abordar apenas partituras simples, como o dedilhamento de notas musicais, porém no decorrer de seu desenvolvimento poderão ser abordados mais detalhes inerentes ao aperfeiçoamento dos sons e configuração de acordes mais complexos.
   
-Estou aqui
