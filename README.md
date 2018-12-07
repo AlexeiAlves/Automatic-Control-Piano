@@ -9,5 +9,4 @@ O que é o Projeto:
   
   A princípio o projeto visa abordar apenas partituras simples, como o dedilhamento de notas musicais, porém no decorrer de seu desenvolvimento poderão ser abordados mais detalhes inerentes ao aperfeiçoamento dos sons e configuração de acordes mais complexos.
   
-Limitações :
-  
+
