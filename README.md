@@ -20,6 +20,7 @@ O que é o Projeto:
   Neste projeto não há um modo de o usuário tocar o teclado e fornecer o som pois não foi elaborado um teclado matricial horizontal, o que seria um acréscimo complexo para projetos  de aperfeiçoamento.
   Ele também toca apenas uma nota de cada vez e é capaz de armazenar apenas até 99 notas.
   É limitado pelo tempo de execução do movimento do servo motor.
-  Não há controle de discretização do tempo de cada nota, restringindo a possibilidade de executar musicas mais complexas
+  Não há controle de discretização do tempo de cada nota, restringindo a possibilidade de executar musicas mais complexas.
+  
   Aperfeiçoamento: é necessário implementar o teclado matricial nas teclas físicas do piano eletronico. Imaginando uma nova etapa de desenvolvimento podemos implementar mais atuadores simulando a mão humana, uma função de gravação/execução de musicas na memória.
 
