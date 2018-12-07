@@ -24,3 +24,5 @@ O que é o Projeto:
   
   Aperfeiçoamento: é necessário implementar o teclado matricial nas teclas físicas do piano eletronico. Imaginando uma nova etapa de desenvolvimento podemos implementar mais atuadores simulando a mão humana, uma função de gravação/execução de musicas na memória e depois disso a imaginação é o limite.
 
+Link para o vídeo de teste do projeto:
+https://www.youtube.com/watch?v=pmSFyxgd_6Q&feature=youtu.be
