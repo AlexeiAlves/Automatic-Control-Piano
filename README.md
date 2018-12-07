@@ -22,5 +22,5 @@ O que é o Projeto:
   É limitado pelo tempo de execução do movimento do servo motor.
   Não há controle de discretização do tempo de cada nota, restringindo a possibilidade de executar musicas mais complexas.
   
-  Aperfeiçoamento: é necessário implementar o teclado matricial nas teclas físicas do piano eletronico. Imaginando uma nova etapa de desenvolvimento podemos implementar mais atuadores simulando a mão humana, uma função de gravação/execução de musicas na memória.
+  Aperfeiçoamento: é necessário implementar o teclado matricial nas teclas físicas do piano eletronico. Imaginando uma nova etapa de desenvolvimento podemos implementar mais atuadores simulando a mão humana, uma função de gravação/execução de musicas na memória e depois disso a imaginação é o limite.
 
